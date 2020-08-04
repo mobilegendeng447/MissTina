@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/MissSabrina_Bot"> <img src="https://telegra.ph/file/864721ff3b215ff66730e.png" alt="@MissSabrina_Bot" /></a></p>
+<p align="center"><a href="Miss Tina Bot"> <img src="https://telegra.ph/file/30e4cd6f0595b76d314b6.jpg" alt="MissTinaBot" /></a></p>
 
 
 
