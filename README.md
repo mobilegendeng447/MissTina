@@ -13,4 +13,6 @@
 ### The Easy Way
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/MissTina)
 
-🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+### Credits
+* @TechnoAyanOfficial For Basic Code
+* [ME Cyber Boy Ayush](https://telegram.dog/cyberboyayush) For Other Work
