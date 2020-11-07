@@ -1,5 +1,5 @@
 {
-  "name": "Sabrina",
+  "name": "Miss Tina",
   "description": "Advanced Group Modular bot for Telegram",
   "keywords": [
     "telegram",
@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/TechnoAyanOfficial/MissSabrina",
+  "repository": "https://github.com/CyberBoyAyush/MissTina",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
