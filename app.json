@@ -20,7 +20,7 @@
     },
     "OWNER_ID": {
       "description": "Go to @MissSabrina_Bot And Type /id to get your id",
-      "value": "1111847352"
+      "value": "1176240952"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
@@ -32,15 +32,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1111847352"
+      "value": "1176240952"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1111847352"
+      "value": "1176240952"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1111847352"
+      "value": "1176240952"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
